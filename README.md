@@ -14,6 +14,8 @@
 
 I am an independent software developer focused on Windows applications, Python automation, local tooling, and modular plugin development. `Acooldog` and `daoges_x` are my developer identities.
 
+You can reach me via 2622138410@qq.com
+
 ## Skills & Tools
 
 <div align="center">
