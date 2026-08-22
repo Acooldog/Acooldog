@@ -5,6 +5,7 @@
 
   <p>
     <a href="https://github.com/Acooldog"><img src="https://img.shields.io/badge/GitHub-Acooldog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://gitee.com/daoges_x"><img src="https://img.shields.io/badge/Gitee-daoges__x-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" /></a>
     <img src="https://img.shields.io/badge/Open%20to-Remote%20Contract%20Work-10B981?style=for-the-badge" alt="Open to remote contract work" />
     <img src="https://komarev.com/ghpvc/?username=Acooldog&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
@@ -15,6 +16,10 @@
 I am an independent software developer focused on Windows applications, Python automation, local tooling, and modular plugin development. `Acooldog` and `daoges_x` are my developer identities.
 
 You can reach me via acooldog@qq.com
+
+Code hosting profiles: [GitHub](https://github.com/Acooldog) · [Gitee](https://gitee.com/daoges_x)
+
+> ⭐ Combined public repository stars: **523** (GitHub **405** + Gitee **118**, checked on August 22, 2026)
 
 ## Skills & Tools
 
