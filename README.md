@@ -19,8 +19,6 @@ You can reach me via acooldog@qq.com
 
 Code hosting profiles: [GitHub](https://github.com/Acooldog) · [Gitee](https://gitee.com/daoges_x)
 
-> ⭐ Combined public repository stars: **523** (GitHub **405** + Gitee **118**, checked on August 22, 2026)
-
 ## Skills & Tools
 
 <div align="center">
